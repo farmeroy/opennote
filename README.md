@@ -2,6 +2,9 @@
 
 ## Table of contents
 - [Project goals](#project-goals)
+- [Project Features](#project-features)
+- [The Open University](#the-open-university)
+- [References](#references)
 
 ### Project Goals
 
@@ -20,6 +23,7 @@ The three founding contributors of this app all study with The Open University.
 It was founded in 1969 and is the largest university in the UK, with over 170,000 students. The OU offers a wide range 
 of undergraduate and postgraduate degrees, as well as short courses and professional qualifications. 
 Students can study at their own pace and from anywhere in the world, with the support of a network of regional centers 
-and online resources." [Bard][1]
+and online resources." [^1]
 
-[1]: https://g.co/bard/share/05329cf739e6 "Bard, a large language model created by Google AI."
+### References
+[^1]: https://g.co/bard/share/05329cf739e6 "Bard, a large language model created by Google AI."
