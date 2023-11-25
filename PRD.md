@@ -23,7 +23,7 @@ Distance learning is experiencing a significant uptake. With increasing number o
 
 ## Requirements
 | **#**                           | **User story title** | **User story description**                                                              | **Priority** | **Notes**                                                       |
-|:-------------------------------:|:--------------------:|:---------------------------------------------------------------------------------------:|:------------:|:---------------------------------------------------------------:|
+|:--------------------------------|:---------------------|:----------------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------|
 | **Functional requirements**     |                      |                                                                                         |              |                                                                 |
 | **1**                           | Note-taking          | The OpenStudy shall allow the system user create a note.                                | Must have    |                                                                 |
 | **2**                           | Markdown support     | The OpenStudy shall allow the system user create a note in the form of a markdown text. | Must have    |                                                                 |
